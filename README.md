@@ -7,4 +7,4 @@
 
 `cd RND`
 
-`python mix.py`
+`python Mix.py`
