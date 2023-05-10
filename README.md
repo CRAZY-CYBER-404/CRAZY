@@ -1,5 +1,5 @@
 #Random Cloning 
 
 
-'*``rm -rf RND`
+`*`rm -rf RND`
 
