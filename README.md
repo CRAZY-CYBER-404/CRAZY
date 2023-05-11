@@ -4,24 +4,24 @@
 
 * `pkg install python`
 
-`pkg install git`
+* `pkg install git`
 
-`pip install requests`
+* `pip install requests`
 
-`pip install mechanize`
+* `pip install mechanize`
 
-`pip install futures`
+* `pip install futures`
 
-`pip install urllib3`
+* `pip install urllib3`
 
-`pip install rich`
+* `pip install rich`
 
-`pip install bs4`
+* `pip install bs4`
 
-`rm -rf CRAZY`
+* `rm -rf CRAZY`
 
-`git clone https://github.com/BABA-CYBER-404/CRAZY`
+* `git clone https://github.com/BABA-CYBER-404/CRAZY`
 
-`cd CRAZY`
+* `cd CRAZY`
 
-`python CRAZY.py`
+* `python CRAZY.py`
