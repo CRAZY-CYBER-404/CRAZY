@@ -1,10 +1,10 @@
-#Random Cloning 
+#File+Random Cloning 
 
 
-`rm -rf RND`
+`rm -rf CRAZY`
 
-`git clone https://github.com/BABA-CYBER-404/RND`
+`git clone https://github.com/BABA-CYBER-404/CRAZY`
 
-`cd RND`
+`cd CRAZY`
 
-`python Mix.py`
+`python CRAZY.py`
