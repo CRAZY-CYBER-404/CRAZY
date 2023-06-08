@@ -20,7 +20,7 @@
 
 * `rm -rf CRAZY`
 
-* `git clone https://github.com/BABA-CYBER-404/CRAZY`
+* `git clone https://github.com/CRAZY-CYBER-404/CRAZY`
 
 * `cd CRAZY`
 
